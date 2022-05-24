@@ -6,4 +6,4 @@ pandas
 statsmodels
 keras
 sklearn
-tensorflow==1.5
+tensorflow==2.6.4
